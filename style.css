@@ -27,9 +27,6 @@ body{
     justify-content: center; 
     align-items: center;     
     background-image:  url("https://media.lexaloffle.com/20526/matrix_rain_161c.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
     margin: 0;
     padding: 0;
 }
